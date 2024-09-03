@@ -17,7 +17,7 @@ Blir du klar med detta kan du även utföra:
 - räkna ut antalet unika ord (dvs ord som förekommer endast en gång)
 
 Se till att alla dina uppgifter skrivs i separata funktioner som sedan anropas i main-funktionen som redan finns i programmet.
-ara förekommer en gång)
+ara förekommer en gång
 
 ## Författare
 
